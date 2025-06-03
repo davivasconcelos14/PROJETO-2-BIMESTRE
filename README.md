@@ -25,8 +25,14 @@ O objetivo do jogo é atravessar todos os mapas (fases), interagindo com NPCs, c
   - 🧨 **Armadilhas** causam dano — evite-as!
 - **HUD e Status**: Seu status (vida, chaves, etc.) é exibido no terminal.
 - **Fim de jogo**: O jogo termina ao completar o último mapa... ou ao morrer tentando.
-
   
+ ---
+ 
+>No codigo feito para o 'MENU PRINCIPAL' foi utilizado funções diversas como: <br/>
+`Kbhit() ` `Switch{}`<br/>`Getch() ` `If Else `<br/>`HANDLE  ` `char    `<br/>`While() ` `printf()`<br/>`int`
+
+<br/>
+
 ---
 
 ## 📅 Cronograma de Desenvolvimento
