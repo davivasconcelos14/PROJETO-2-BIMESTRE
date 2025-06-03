@@ -1,4 +1,4 @@
-# 🕹️ Dungeon Crawler em C++
+# 🕹️ Dungeon Crawler em C
 ALUNOS: Arthur Miguel, Lucas Banna e Davi Duarte :shipit:
 
 > Um jogo 2D desenvolvido em C++ com gráficos, exploração por mapas e elementos interativos como chaves, portas, monstros e armadilhas. Desenvolvido em 4 semanas.
