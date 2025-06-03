@@ -1,8 +1,32 @@
-# 🕹️ Jogo de Aventura em C++
+# 🕹️ Dungeon Crawler em C++
 ALUNOS: Arthur Miguel, Lucas Banna e Davi Duarte :shipit:
 
 > Um jogo 2D desenvolvido em C++ com gráficos, exploração por mapas e elementos interativos como chaves, portas, monstros e armadilhas. Desenvolvido em 4 semanas.
+## 📖 História
+Você é um aventureiro solitário que acorda em uma masmorra desconhecida. Ecos de criaturas sombrias ecoam pelos corredores enquanto você busca uma saída. Portas trancadas, armadilhas e monstros guardam os segredos que se escondem em cada canto. Com apenas sua coragem, você deve explorar, sobreviver e descobrir quem — ou o que — o trouxe até aqui.
 
+---
+
+## 🎯 Objetivo
+O objetivo do jogo é atravessar todos os mapas (fases), interagindo com NPCs, coletando chaves, abrindo portas, evitando armadilhas e derrotando monstros. O jogador deve usar a lógica e explorar os ambientes para avançar, enfrentando desafios cada vez mais complexos.
+
+---
+
+## 🎮 Como Jogar
+
+- **Movimentação**: Use as teclas `W`, `A`, `S`, `D` para mover o personagem.
+- **Interações**:
+  - `E` para interagir com portas, chaves e NPCs.
+  - Passar sobre armadilhas pode causar sangramento e perda de vida.
+- **Objetos e mecânicas**:
+  - 🔑 **Chaves** abrem portas trancadas.
+  - 🚪 **Portas** bloqueiam caminhos até que sejam desbloqueadas.
+  - ⚔️ **Monstros** podem atacar o jogador — derrote-os para avançar.
+  - 🧨 **Armadilhas** causam dano — evite-as!
+- **HUD e Status**: Seu status (vida, chaves, etc.) é exibido no terminal.
+- **Fim de jogo**: O jogo termina ao completar o último mapa... ou ao morrer tentando.
+
+  
 ---
 
 ## 📅 Cronograma de Desenvolvimento
