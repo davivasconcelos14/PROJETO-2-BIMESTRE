@@ -1,0 +1,33 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build-and-run",
+      "type": "shell",
+      "command": "start",
+      "args": [
+        "cmd",
+        "/k",
+        "gcc \"DungeonCrawler.c\" -o DungeonC.exe -Iorganizacao/include -Lorganizacao/lib -lraylib -lopengl32 -lgdi32 -lwinmm &&",
+        "DungeonC.exe"
+
+      ],
+      "options": {
+        "cwd": "${workspaceFolder}",
+        "shell": {
+          "executable": "C:\\Windows\\System32\\cmd.exe",
+          "args": ["/d", "/c"]
+        }
+      },
+      "presentation": {
+        "echo": true,
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "ios": "cpp",
+        "xiosbase": "cpp",
+        "raylib.h": "cpp",
+        "stdlib.h": "cpp",
+        "includefuncoes.cpp": "cpp",
+        "variaveisglobais.cpp": "cpp",
+        "c raylib.c": "c",
+        "stdio.h": "c",
+        "tela.cpp": "c",
+        "funcoes.c": "cpp",
+        "globais.cpp": "c",
+        "vila.h": "c",
+        "stdbool.h": "c",
+        "variaveis.h": "c",
+        "time.h": "c",
+        "creditos.h": "c",
+        "imprimirmapa.h": "c",
+        "carregamentogeral.h": "c",
+        "funcoes.h": "c",
+        "mapa.h": "c",
+        "windows.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
