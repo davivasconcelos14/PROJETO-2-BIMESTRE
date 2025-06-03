@@ -126,5 +126,4 @@ O objetivo do jogo é atravessar todos os mapas (fases), interagindo com NPCs, c
 
 ## 🚀 Rodando o jogo
 ```bash
-g++ main.cpp -o jogo
-./jogo
+
